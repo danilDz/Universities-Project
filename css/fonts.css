@@ -1,0 +1,14 @@
+@font-face{
+    src: url(../css/fonts/Oswald/Oswald-VariableFont_wght.ttf);
+    font-family: 'Oswald';
+}
+
+@font-face{
+    src: url(../css/fonts/Dela_Gothic_One/DelaGothicOne-Regular.ttf);
+    font-family: 'DelaGothicOne';
+}
+
+@font-face{
+    src: url(../css/fonts/Lobster/Lobster-Regular.ttf);
+    font-family: 'Lobster';
+}
